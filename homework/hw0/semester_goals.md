@@ -1,6 +1,6 @@
 # Semester Goals for Data Mining
 
-***Listen to all the Classes***
+***Listen to all the Classes of Data Mining***
 
 * Listen to all the classes remotely but I would like to have full in-class method.
 * Interaction with classmates gives up anothoer advantage in group discussions.
